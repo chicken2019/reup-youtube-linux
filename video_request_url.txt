@@ -1,0 +1,2 @@
+https://www.googleapis.com/youtube/v3/activities?part=snippet,contentDetails&key=XXXXXXXXXXXXXXXXXXXXXXXXXXX&channelId=UCytBJxLdfN3Olamg-dAfTEA&maxResults=50
+https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PLQXpvq71LeD3XKI8aW_znJRozEwRUUUPL&key=XXXXXXXXXXXXXXXXXXXXXXXX
